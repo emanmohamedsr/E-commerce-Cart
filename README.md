@@ -42,19 +42,35 @@ A modern React-based e-commerce application with Redux state management, featuri
 ## Project Structure 📂
 
 src/
+
 ├── Components/
+
 │ ├── Carousel.jsx  
+
 │ ├── NavBar.jsx  
+
 │ ├── Product.jsx  
+
 │ └── ProductSkeleton.jsx
+
 ├── Pages/
+
 │ ├── Home.jsx  
+
 │ ├── ProductsPage.jsx
+
 │ └── CartPage.jsx
+
 ├── ReduxToolkit/
+
 │ ├── Slices/
+
 │ │ ├── CartSlice.jsx
+
 │ │ └── ProductsSlice.jsx
+
 │ └── store.jsx
+
 └── App.jsx
+
 └── main.jsx
