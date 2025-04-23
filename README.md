@@ -2,7 +2,7 @@
 
 A modern React-based e-commerce application with Redux state management, featuring product listings, cart functionality, and responsive design.
 
-## => (Vercel Live Demo)[https://e-commerce-cart-tau.vercel.app/]
+## [Vercel Live Demo](https://e-commerce-cart-tau.vercel.app/)
 
 ## Features ✨
 
